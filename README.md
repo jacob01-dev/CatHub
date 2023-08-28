@@ -1,9 +1,9 @@
 ## CatHub
 
-![Screenshot of App](src/assets/screenshot1.png)
-![Screenshot of App](src/assets/screenshot2.png)
-![Screenshot of App](src/assets/screenshot3.png)
-![Screenshot of App](src/assets/screenshot4.png)
+![Screenshot of App](src/assets/screenshot_1.png)
+![Screenshot of App](src/assets/screenshot_2.png)
+![Screenshot of App](src/assets/screenshot_3.png)
+![Screenshot of App](src/assets/screenshot_4.png)
 
 ## General Info
 
