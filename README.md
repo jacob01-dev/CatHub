@@ -14,7 +14,7 @@ Project made using React, TypeScript and TailwindCSS
 To run this project, install it locally using npm:
 
 ```
-$ cd todo-app
+$ cd CatHub
 $ npm install
 $ npm run dev
 ```
